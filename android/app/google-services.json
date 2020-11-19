@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "635924332230",
+    "firebase_url": "https://e-class-4abc6.firebaseio.com",
+    "project_id": "e-class-4abc6",
+    "storage_bucket": "e-class-4abc6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:635924332230:android:e191bcf923fa58d1ee21c7",
+        "android_client_info": {
+          "package_name": "com.dhaya.eclass"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "635924332230-e308147caql4hj40cenkmqjlkb8k7err.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFw7c8A4mXgg-DGhSUAzkg7z414tvn7t0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "635924332230-e308147caql4hj40cenkmqjlkb8k7err.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
